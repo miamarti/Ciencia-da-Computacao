@@ -1,0 +1,12 @@
+---
+layout: news_item
+title: 'Start'
+date: 2014-08-25 21:32:00 -0300
+author: miamarti
+version: 2.3.0
+categories: [release]
+---
+
+Iniciando os posts do sistema
+
+* validando lista
